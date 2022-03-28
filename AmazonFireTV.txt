@@ -23,6 +23,7 @@ api.amazonalexa.com
 api.eu.amazonalexa.com
 avs.eu.amazonalexa.com
 d3p8zr0ffa9t17.cloudfront.net
+alexa.amazon.de
 
 # updates
 #softwareupdates.amazon.com
