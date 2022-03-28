@@ -1,26 +1,27 @@
-0.0.0.0 device-messaging-na.amazon.com
-0.0.0.0 devicemessaging.us-east-1.amazon.com
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-na.amazon.com
-0.0.0.0 mads-eu.amazon.com
-0.0.0.0 mas-sdk.amazon.com
+device-messaging-na.amazon.com
+devicemessaging.us-east-1.amazon.com
+fls-eu.amazon.com
+fls-na.amazon.com
+mads-eu.amazon.com
+mas-sdk.amazon.com
 
 # required for apps to be installed
 #mas-ext.amazon.com
 
-0.0.0.0 aax-eu.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
 
-0.0.0.0 msh.amazon.co.uk
+msh.amazon.co.uk
 
 # required for app installation / updates
 # amazonadsi-a.akamaihd.net
 
-0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+mobileanalytics.us-east-1.amazonaws.com
 
 # alexa
-0.0.0.0 cortana-gateway.amazon.com
-0.0.0.0 api.amazonalexa.com
-0.0.0.0 avs.eu.amazonalexa.com
+cortana-gateway.amazon.com
+api.amazonalexa.com
+api.eu.amazonalexa.com
+avs.eu.amazonalexa.com
 d3p8zr0ffa9t17.cloudfront.net
 
 # updates
@@ -61,10 +62,10 @@ d3p8zr0ffa9t17.cloudfront.net
 #digprjsurvey.amazon.eu
 
 # third party
-0.0.0.0 config.ioam.de
-0.0.0.0 de.ioam.de
-0.0.0.0 secure-eu.imrworldwide.com
-0.0.0.0 logs1409.xiti.com
-0.0.0.0 tracksrv.zdf.de
-0.0.0.0 settings.crashlytics.com
-0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
+config.ioam.de
+de.ioam.de
+secure-eu.imrworldwide.com
+logs1409.xiti.com
+tracksrv.zdf.de
+settings.crashlytics.com
+notify.firetv.bugsnag.appstore.a2z.com
